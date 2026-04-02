@@ -14,9 +14,6 @@ Building practical AI systems, agentic workflows, and research-oriented tooling 
 - Workflow: AI coding tools, CLI automation, code analysis
 - Interests: agent systems, reverse engineering, developer productivity
 
-**Featured Project**
-- [claude-code-source-code](https://github.com/GavinWu326/claude-code-source-code): research-oriented analysis of Claude Code source structure and architecture
-
 **Contact**
 - Email: Yangwu202310@gmail.com
 - GitHub: [@GavinWu326](https://github.com/GavinWu326)
