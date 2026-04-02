@@ -1,13 +1,13 @@
 ### Gavin Wu
 
-AI coding workflow builder and source-code analysis enthusiast.
+AI Engineer focused on coding workflows, source-code analysis, and developer tooling.
 
-Building practical AI tooling, agentic workflows, and research-oriented code analysis projects.
+Building practical AI systems, agentic workflows, and research-oriented tooling projects.
 
 **Focus Areas**
-- AI coding workflows and developer tooling
-- Source-code analysis and technical documentation
-- Agentic automation and practical research projects
+- AI coding workflows and developer tools
+- Source-code analysis and technical research
+- Agentic automation for practical workflows
 
 **Tech Stack**
 - Languages: TypeScript, JavaScript, Node.js
@@ -15,7 +15,7 @@ Building practical AI tooling, agentic workflows, and research-oriented code ana
 - Interests: agent systems, reverse engineering, developer productivity
 
 **Featured Project**
-- [claude-code-source-code](https://github.com/GavinWu326/claude-code-source-code): research-oriented source analysis of Claude Code
+- [claude-code-source-code](https://github.com/GavinWu326/claude-code-source-code): research-oriented analysis of Claude Code source structure and architecture
 
 **Contact**
 - Email: Yangwu202310@gmail.com
