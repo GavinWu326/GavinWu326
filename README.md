@@ -1,19 +1,18 @@
 ### Gavin Wu
 
-AI Engineer focused on coding workflows, source-code analysis, and developer tooling.
+AI engineer and data science master's student focused on agent systems, RAG, multimodal AI, and applied LLM products.
 
-Building practical AI systems, agentic workflows, and research-oriented tooling projects.
+Building practical AI systems for memory, retrieval, automation, and model evaluation.
 
-**Focus Areas**
-- AI coding workflows and developer tools
-- Source-code analysis and technical research
-- Agentic automation for practical workflows
+**Focus**
+- Agent systems and workflow automation
+- RAG and knowledge systems
+- Multimodal understanding and model evaluation
 
 **Tech Stack**
-- Languages: TypeScript, JavaScript, Node.js
-- Workflow: AI coding tools, CLI automation, code analysis
-- Interests: agent systems, reverse engineering, developer productivity
+- Python, FastAPI, OpenAI SDK, FastMCP
+- Redis, vector databases, Neo4j
+- PyTorch, LangChain
 
 **Contact**
 - Email: Yangwu202310@gmail.com
-- GitHub: [@GavinWu326](https://github.com/GavinWu326)
