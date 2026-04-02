@@ -18,4 +18,5 @@ Building practical AI tooling, agentic workflows, and research-oriented code ana
 - [claude-code-source-code](https://github.com/GavinWu326/claude-code-source-code): research-oriented source analysis of Claude Code
 
 **Contact**
+- Email: Yangwu202310@gmail.com
 - GitHub: [@GavinWu326](https://github.com/GavinWu326)
