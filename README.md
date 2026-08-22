@@ -1,6 +1,6 @@
 ### Gavin Wu
 
-AI Engineer & Data Science Master's Student @ City University of Macau, Shenzhen
+AI Engineer
 
 Building practical AI systems for memory, retrieval, workflow orchestration, and model evaluation.
 
