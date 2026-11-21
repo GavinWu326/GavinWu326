@@ -10,7 +10,7 @@ Building practical AI systems for memory, retrieval, workflow orchestration, and
 - Multimodal understanding and model evaluation
 
 **Tech Stack**
-- LLM: Claude, GPT, Gemini, OpenAI SDK, RAG, Prompt Engineering
+- LLM: Claude, Codex,Antigravity,Gemini, OpenAI SDK, RAG, Prompt Engineering
 - Agent: LangChain, LangGraph, CrewAI, Dify, n8n (webhook/API workflow orchestration), FastMCP
 - Engineering: Python, FastAPI, Redis, Vector Databases, Neo4j, PyTorch
 
