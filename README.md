@@ -1,6 +1,6 @@
 ### Gavin Wu
 
-AI Engineer
+GenAI Engineer/FDE
 
 Building practical AI systems for memory, retrieval, workflow orchestration, and model evaluation.
 
