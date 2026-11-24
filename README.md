@@ -16,3 +16,4 @@ Building practical AI systems for memory, retrieval, workflow orchestration, and
 
 **Contact**
 - Email: Yangwu202310@gmail.com
+- LinkedIn:https://www.linkedin.com/in/yanghao-wu-552a103bb
